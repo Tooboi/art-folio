@@ -10,7 +10,7 @@ const projects = [
         image: Ben,
         title: 'Ben',
         link: 'https://tooboi.github.io/Style-Guide/',
-        repo: 'https://github.com/Tooboi/Style-Guide',
+        year: '2023',
         desc: 'Frontend UI style template for choosing colors, font, or random color'
     },
     {
@@ -18,7 +18,7 @@ const projects = [
         image: Eric,
         title: 'Eric',
         link: 'https://soundbyte.herokuapp.com/',
-        repo: 'https://github.com/JoshuaCarter99/bandshare',
+        year: '2023',
         desc: 'Full stack music sharing app utilizing MySQL, Node, Express, Handlebars, and Cloudinary'
     },
     {
@@ -26,7 +26,7 @@ const projects = [
         image: Creature,
         title: 'Creature Alpha',
         link: 'https://tooboi.github.io/After-Afters/',
-        repo: 'https://github.com/Tooboi/After-Afters',
+        year: '2023',
         desc: 'Frontend app that allows the user to find sports or music events in Philly, then find food within a 15 minute walk of the venue'
     },
     {
@@ -34,15 +34,15 @@ const projects = [
         image: Creature2,
         title: 'Ankle Biter',
         link: 'https://tooboi.github.io/Gamma-UI/',
-        repo: 'https://github.com/Tooboi/Gamma-UI',
+        year: '2023',
         desc: 'My own css framework for getting apps off the ground quickly with a flat UI'
     }
 ]
 export default function Portfolio() {
     return (
-        <div className='mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8' >
-            <h1 className='mt-5 flex justify-content-center header-font px-3 select-none tracking-tight'>Characters</h1>
-            <Project projects={projects} image={projects.image} title={projects.title} link={projects.link} repo={projects.repo} desc={projects.desc} />
+        <div className='mx-auto max-w-8xl md:px-4 lg:px-10 py-10' >
+            <h1 className='text-center text-2xl py-3 select-none tracking-tight text-stone-400'>CHARACTERS</h1>
+            <Project projects={projects} image={projects.image} title={projects.title} link={projects.link} year={projects.year} desc={projects.desc} />
         </div>
     );
 }
