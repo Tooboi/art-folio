@@ -18,3 +18,13 @@
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.8) 25%, rgba(0, 0, 0, 0.2) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
 }
+.center-line {
+  background: linear-gradient(to right, 
+  transparent 0%, 
+  transparent calc(100% - 0.81px), 
+  black calc(50% - 0.8px), 
+  black calc(50% + 0.8px), 
+  transparent calc(100% + 0.81px), 
+  transparent 100%); 
+
+}
