@@ -20,7 +20,7 @@ const projects = [
         title: 'Eric',
         link: 'https://soundbyte.herokuapp.com/',
         year: '2023',
-        desc: 'Created in Blender',
+        desc: 'Realism Study No.6',
         logo: 12
     },
     {
@@ -29,7 +29,7 @@ const projects = [
         title: 'Ben',
         link: 'https://tooboi.github.io/Style-Guide/',
         year: '2023',
-        desc: 'Created in Blender',
+        desc: 'Realism Study No.5',
         logo: 12
     },
     {
@@ -38,7 +38,7 @@ const projects = [
         title: 'Ruth',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2023',
-        desc: 'Created in Blender',
+        desc: 'Realism Study No.4',
         logo: 12
     },
     {
@@ -47,7 +47,7 @@ const projects = [
         title: 'Creature Alpha',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2023',
-        desc: 'Created in Blender',
+        desc: 'Nightmare Fuel No.2',
         logo: 12
     },
     {
@@ -56,7 +56,7 @@ const projects = [
         title: 'Ankle Biter',
         link: 'https://tooboi.github.io/Gamma-UI/',
         year: '2023',
-        desc: 'Created in Blender',
+        desc: 'Nightmare Fuel No.1',
         logo: 12
     },
     {
@@ -65,7 +65,7 @@ const projects = [
         title: 'Kev',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender',
+        desc: 'Realism Study No.3',
         logo: 12
     },    {
         id: 7,
@@ -73,7 +73,7 @@ const projects = [
         title: 'Beaver',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2020',
-        desc: 'Created in Blender',
+        desc: 'Animal & Fur Study No.1',
         logo: 1
     },    {
         id: 8,
@@ -81,7 +81,7 @@ const projects = [
         title: 'Fox',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2021',
-        desc: 'Created in Blender',
+        desc: 'Animal & Fur Study No.2',
         logo: 1
     },    {
         id: 9,
@@ -89,7 +89,7 @@ const projects = [
         title: 'Lemur',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender',
+        desc: 'Animal & Fur Study No.3',
         logo: 1
     },    {
         id: 10,
@@ -97,7 +97,7 @@ const projects = [
         title: 'Platypus',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender',
+        desc: 'Animal & Fur Study No.4',
         logo: 1
     },    {
         id: 11,
@@ -105,7 +105,7 @@ const projects = [
         title: 'Polish Troll',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender',
+        desc: 'Realism Study No.1',
         logo: 12
     },    {
         id: 12,
@@ -113,7 +113,7 @@ const projects = [
         title: 'Prairie Dawg',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender',
+        desc: 'Animal & Fur Study No.6',
         logo: 1
     },    {
         id: 13,
@@ -121,7 +121,7 @@ const projects = [
         title: 'Ungrateful Bear',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender',
+        desc: 'Animal & Fur Study No.5',
         logo: 1
     }
 ]
