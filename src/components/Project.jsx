@@ -4,12 +4,12 @@ import Substance from '../images/substance.png';
 export default function Project({ projects }) {
   function Logo({ logoOption }) {
     if (logoOption === 1) {
-      return <img src={Blender} alt={Blender} className='w-8 h-8' />;
+      return <img src={Blender} alt={Blender} className="w-8 h-8" />;
     } else if (logoOption === 12) {
       return (
-        <div className='flex max-w-full'>
-          <img src={Blender} alt={Blender} className='w-8 h-8 mx-1'/>
-          <img src={Substance} alt={Substance} className='w-8 h-8 mx-1' />
+        <div className="flex max-w-full">
+          <img src={Blender} alt={Blender} className="w-8 h-8 mx-1" />
+          <img src={Substance} alt={Substance} className="w-8 h-8 mx-1" />
         </div>
       );
     } else {
