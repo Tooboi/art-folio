@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/art-folio/static/css/main.61430d4e.css",
+    "main.js": "/art-folio/static/js/main.6e57c3fb.js",
+    "static/js/787.cbdf60eb.chunk.js": "/art-folio/static/js/787.cbdf60eb.chunk.js",
+    "static/media/Ben2.png": "/art-folio/static/media/Ben2.a4e8a2fbe3d1c2e9ddb0.png",
+    "static/media/Eric11.png": "/art-folio/static/media/Eric11.70df3235389d912b4750.png",
+    "static/media/Creature.png": "/art-folio/static/media/Creature.01eab0ff43110593b8a6.png",
+    "static/media/Creature2.png": "/art-folio/static/media/Creature2.f53929efee98a87090ed.png",
+    "static/media/Banner1.png": "/art-folio/static/media/Banner1.23ac55d64bf738e19109.png",
+    "static/media/github.svg": "/art-folio/static/media/github.da6acc9efd83c62285bdfe631230e83e.svg",
+    "static/media/insta.svg": "/art-folio/static/media/insta.c96b8ffb2ebf01d5c06660db92a2f252.svg",
+    "index.html": "/art-folio/index.html",
+    "main.61430d4e.css.map": "/art-folio/static/css/main.61430d4e.css.map",
+    "main.6e57c3fb.js.map": "/art-folio/static/js/main.6e57c3fb.js.map",
+    "787.cbdf60eb.chunk.js.map": "/art-folio/static/js/787.cbdf60eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61430d4e.css",
+    "static/js/main.6e57c3fb.js"
+  ]
+}
