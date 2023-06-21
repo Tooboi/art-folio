@@ -1,6 +1,7 @@
-import { useEffect, useState } from 'react'
+// import { useEffect, useState } from 'react'
 import { ReactComponent as Github } from '../images/github.svg';
 import { ReactComponent as Insta } from '../images/insta.svg';
+import { ReactComponent as Linked } from '../images/linked.svg';
 export default function Footer() {
   return (
     <div className="flex justify-between static bottom-0 w-full px-8 pb-4">
@@ -15,6 +16,9 @@ export default function Footer() {
       <div className=" text-center flex justify-center py-2">
         <a href="https://www.instagram.com/gamma2dot2/" target="_blank" rel="noreferrer">
           <Insta className="w-6 mx-2 fill-stone-700 hover:fill-stone-600 hover:scale-105 transition-all active:scale-100" />
+        </a>
+        <a href="https://www.linkedin.com/in/joshua-pica-4194111b5/" target="_blank" rel="noreferrer">
+          <Linked className="w-6 mx-2 fill-stone-700 hover:fill-stone-600 hover:scale-105 transition-all active:scale-100" />
         </a>
         <a href="https://github.com/Tooboi" target="_blank" rel="noreferrer">
           <Github className="w-6 mx-2 fill-stone-700 hover:fill-stone-600 hover:scale-105 transition-all active:scale-100" />

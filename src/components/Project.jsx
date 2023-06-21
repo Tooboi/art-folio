@@ -3,7 +3,7 @@ export default function Project({ projects }) {
     <div className="grid grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
       {projects.map((project) => (
         <div className="p-2" key={project.id}>
-          <div className="mx-auto max-w-[512px] min-w-[150px] aspect-h-1 aspect-w-1 overflow-hidden rounded-lg bg-stone-800 cursor-pointer">
+          <div className="mx-auto max-w-[512px] min-w-[150px] aspect-h-1 aspect-w-1 overflow-hidden rounded-lg bg-stone-800">
             <section className="absolute z-10 opacity-0 hover:opacity-100 transition">
               <div className="bg-[#00000080] h-full w-full" />
               <div className="z-20 absolute bottom-0 left-0 p-4">

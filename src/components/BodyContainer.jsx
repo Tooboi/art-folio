@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Nav from './Nav';
-// import About from '../pages/About';
-// import Contact from '../pages/Contact';
+import About from '../pages/About';
+import Contact from '../pages/Contact';
 import Portfolio from '../pages/Portfolio';
 // import Resume from '../pages/Resume';
 import Footer from './Footer';
@@ -10,12 +10,12 @@ export default function BodyContainer() {
   const [currentPage, setCurrentPage] = useState('Portfolio');
 
   const renderPage = () => {
-    // if (currentPage === 'About') {
-    //   return <About />;
-    // }
-    // if (currentPage === 'Contact') {
-    //   return <Contact />;
-    // }
+    if (currentPage === 'About') {
+      return <About />;
+    }
+    if (currentPage === 'Contact') {
+      return <Contact />;
+    }
     if (currentPage === 'Portfolio') {
       return <Portfolio />;
     }
