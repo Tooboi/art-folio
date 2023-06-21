@@ -20,7 +20,8 @@ const projects = [
         title: 'Eric',
         link: 'https://soundbyte.herokuapp.com/',
         year: '2023',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },
     {
         id: 2,
@@ -28,7 +29,8 @@ const projects = [
         title: 'Ben',
         link: 'https://tooboi.github.io/Style-Guide/',
         year: '2023',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },
     {
         id: 3,
@@ -36,7 +38,8 @@ const projects = [
         title: 'Ruth',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2023',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },
     {
         id: 4,
@@ -44,7 +47,8 @@ const projects = [
         title: 'Creature Alpha',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2023',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },
     {
         id: 5,
@@ -52,7 +56,8 @@ const projects = [
         title: 'Ankle Biter',
         link: 'https://tooboi.github.io/Gamma-UI/',
         year: '2023',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },
     {
         id: 6,
@@ -60,63 +65,71 @@ const projects = [
         title: 'Kev',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },    {
         id: 7,
         image: Beaver,
         title: 'Beaver',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2020',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 1
     },    {
         id: 8,
         image: Fox,
         title: 'Fox',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2021',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 1
     },    {
         id: 9,
         image: Lemur,
         title: 'Lemur',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 1
     },    {
         id: 10,
         image: Platipus,
         title: 'Platypus',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 1
     },    {
         id: 11,
         image: PolishTroll,
         title: 'Polish Troll',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 12
     },    {
         id: 12,
         image: PrarieDawg,
-        title: 'Prairie  Dawg',
+        title: 'Prairie Dawg',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 1
     },    {
         id: 13,
         image: UngreatfulBear,
         title: 'Ungrateful Bear',
         link: 'https://tooboi.github.io/After-Afters/',
         year: '2022',
-        desc: 'Created in Blender'
+        desc: 'Created in Blender',
+        logo: 1
     }
 ]
 export default function Portfolio() {
     return (
         <div className='mx-auto max-w-8xl md:px-4 lg:px-10 pt-10 pb-6 min-h-screen' >
             <h1 className='text-center text-2xl py-3 select-none tracking-tight text-stone-400'>CHARACTERS</h1>
-            <Project projects={projects} image={projects.image} title={projects.title} link={projects.link} year={projects.year} desc={projects.desc} />
+            <Project projects={projects} image={projects.image} title={projects.title} link={projects.link} year={projects.year} desc={projects.desc} logo={projects.logo} />
         </div>
     );
 }
