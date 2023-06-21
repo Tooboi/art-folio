@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/art-folio/static/css/main.61430d4e.css",
-    "main.js": "/art-folio/static/js/main.6e57c3fb.js",
+    "main.css": "/art-folio/static/css/main.d96a6aee.css",
+    "main.js": "/art-folio/static/js/main.a11bea59.js",
     "static/js/787.cbdf60eb.chunk.js": "/art-folio/static/js/787.cbdf60eb.chunk.js",
     "static/media/Ben2.png": "/art-folio/static/media/Ben2.a4e8a2fbe3d1c2e9ddb0.png",
     "static/media/Eric11.png": "/art-folio/static/media/Eric11.70df3235389d912b4750.png",
-    "static/media/Creature.png": "/art-folio/static/media/Creature.01eab0ff43110593b8a6.png",
-    "static/media/Creature2.png": "/art-folio/static/media/Creature2.f53929efee98a87090ed.png",
+    "static/media/Ruth.png": "/art-folio/static/media/Ruth.181fdccb1d49462aea12.png",
+    "static/media/Beaver.png": "/art-folio/static/media/Beaver.247364d61ce7572cb48c.png",
+    "static/media/UngreatfulBear.png": "/art-folio/static/media/UngreatfulBear.ee1781a174a9159d9ed0.png",
+    "static/media/Fox.png": "/art-folio/static/media/Fox.464396606f3459287724.png",
+    "static/media/Lemur.png": "/art-folio/static/media/Lemur.7a8b2b7b3653659ccbe6.png",
+    "static/media/Platipus.png": "/art-folio/static/media/Platipus.13d4d8e6821d3d3897a9.png",
+    "static/media/PolishTroll.png": "/art-folio/static/media/PolishTroll.e54175a08bbdb0906414.png",
+    "static/media/Dude2.png": "/art-folio/static/media/Dude2.9cd30a88b0bfd358951f.png",
+    "static/media/Creature2.png": "/art-folio/static/media/Creature2.95a32162248b74e9172e.png",
+    "static/media/PrarieDawg.png": "/art-folio/static/media/PrarieDawg.91bca4729071bf9d5bb3.png",
+    "static/media/Creature.png": "/art-folio/static/media/Creature.7f2be97373e6da405d76.png",
     "static/media/Banner1.png": "/art-folio/static/media/Banner1.23ac55d64bf738e19109.png",
     "static/media/github.svg": "/art-folio/static/media/github.da6acc9efd83c62285bdfe631230e83e.svg",
     "static/media/insta.svg": "/art-folio/static/media/insta.c96b8ffb2ebf01d5c06660db92a2f252.svg",
     "index.html": "/art-folio/index.html",
-    "main.61430d4e.css.map": "/art-folio/static/css/main.61430d4e.css.map",
-    "main.6e57c3fb.js.map": "/art-folio/static/js/main.6e57c3fb.js.map",
+    "static/media/linked.svg": "/art-folio/static/media/linked.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "main.d96a6aee.css.map": "/art-folio/static/css/main.d96a6aee.css.map",
+    "main.a11bea59.js.map": "/art-folio/static/js/main.a11bea59.js.map",
     "787.cbdf60eb.chunk.js.map": "/art-folio/static/js/787.cbdf60eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61430d4e.css",
-    "static/js/main.6e57c3fb.js"
+    "static/css/main.d96a6aee.css",
+    "static/js/main.a11bea59.js"
   ]
 }
