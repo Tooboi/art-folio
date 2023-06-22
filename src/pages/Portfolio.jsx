@@ -144,11 +144,16 @@ export default function Portfolio() {
         </div>
       );
     }
+    if (currentTab === 'Renders') {
+      return (
+        <div className="mx-auto max-w-8xl md:px-4 lg:px-10 pt-10 pb-6 min-h-screen">
+          <h1 className="text-center text-2xl py-3 select-none tracking-tight text-stone-400">RENDERS</h1>
+          <Project projects={projects} image={projects.image} title={projects.title} link={projects.link} year={projects.year} desc={projects.desc} logo={projects.logo} />
+        </div>
+      );
+    }
   };
   return (
-    <div className="mx-auto max-w-8xl md:px-4 lg:px-10 pt-10 pb-6 min-h-screen">
-      <h1 className="text-center text-2xl py-3 select-none tracking-tight text-stone-400">CHARACTERS</h1>
-      <Project projects={projects} image={projects.image} title={projects.title} link={projects.link} year={projects.year} desc={projects.desc} logo={projects.logo} />
-    </div>
+    <div>{renderTab()}</div>
   );
 }
