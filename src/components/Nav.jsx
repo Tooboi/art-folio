@@ -8,15 +8,15 @@ function Nav({ currentPage, handlePageChange }) {
           <img src={banner} alt="GAMMA2DOT2" />
         </a>
       </div>
-      <div className="flex flex-col sm:flex-row justify-center flex-wrap mx-auto text-center">
+      <div className="flex flex-col sm:flex-row justify-center flex-wrap mx-auto text-center gap-12">
         <a href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'underline underline-offset-8 decoration-stone-400 font-normal' : 'font-light'}>
-          <p className="py-1 mb-0 px-10 text-2xl sm:text-3xl hover:text-stone-200 text-stone-300 transition">ABOUT</p>
+          <p className="py-1 mb-0  text-2xl sm:text-3xl hover:text-stone-200 text-stone-300 transition">ABOUT</p>
         </a>
         <a href="#portfolio" onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'underline underline-offset-8 decoration-stone-400 font-normal' : 'font-light'}>
-          <p className="py-1 mb-0 px-10 text-2xl sm:text-3xl hover:text-stone-200 text-stone-300 transition">PORTFOLIO</p>
+          <p className="py-1 mb-0  text-2xl sm:text-3xl hover:text-stone-200 text-stone-300 transition">PORTFOLIO</p>
         </a>
         <a href="#contact" onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'underline underline-offset-8 decoration-stone-400 font-normal' : 'font-light'}>
-          <p className="py-1 mb-0 px-10 text-2xl sm:text-3xl hover:text-stone-200 text-stone-300 transition">CONTACT</p>
+          <p className="py-1 mb-0  text-2xl sm:text-3xl hover:text-stone-200 text-stone-300 transition">CONTACT</p>
         </a>
       </div>
     </nav>
