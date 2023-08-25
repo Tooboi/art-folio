@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/art-folio/static/css/main.1bfe0072.css",
-    "main.js": "/art-folio/static/js/main.fe95aedd.js",
+    "main.css": "/art-folio/static/css/main.9149d877.css",
+    "main.js": "/art-folio/static/js/main.f812ca58.js",
     "static/js/787.cbdf60eb.chunk.js": "/art-folio/static/js/787.cbdf60eb.chunk.js",
     "static/media/Mold5.png": "/art-folio/static/media/Mold5.32825f4b20f76c1daeba.png",
     "static/media/Ben2.png": "/art-folio/static/media/Ben2.a4e8a2fbe3d1c2e9ddb0.png",
@@ -30,12 +30,12 @@
     "index.html": "/art-folio/index.html",
     "static/media/artstation.svg": "/art-folio/static/media/artstation.ea786ecc38d1c2c6524c30a3fa92b2b4.svg",
     "static/media/linked.svg": "/art-folio/static/media/linked.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "main.1bfe0072.css.map": "/art-folio/static/css/main.1bfe0072.css.map",
-    "main.fe95aedd.js.map": "/art-folio/static/js/main.fe95aedd.js.map",
+    "main.9149d877.css.map": "/art-folio/static/css/main.9149d877.css.map",
+    "main.f812ca58.js.map": "/art-folio/static/js/main.f812ca58.js.map",
     "787.cbdf60eb.chunk.js.map": "/art-folio/static/js/787.cbdf60eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bfe0072.css",
-    "static/js/main.fe95aedd.js"
+    "static/css/main.9149d877.css",
+    "static/js/main.f812ca58.js"
   ]
 }
