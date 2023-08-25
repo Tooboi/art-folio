@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.css": "/art-folio/static/css/main.135f3b70.css",
-    "main.js": "/art-folio/static/js/main.8e189020.js",
+    "main.css": "/art-folio/static/css/main.1bfe0072.css",
+    "main.js": "/art-folio/static/js/main.fe95aedd.js",
     "static/js/787.cbdf60eb.chunk.js": "/art-folio/static/js/787.cbdf60eb.chunk.js",
+    "static/media/Mold5.png": "/art-folio/static/media/Mold5.32825f4b20f76c1daeba.png",
     "static/media/Ben2.png": "/art-folio/static/media/Ben2.a4e8a2fbe3d1c2e9ddb0.png",
     "static/media/Eric11.png": "/art-folio/static/media/Eric11.70df3235389d912b4750.png",
+    "static/media/pearls3.png": "/art-folio/static/media/pearls3.ab5df0b65df5727f96e8.png",
+    "static/media/HardOpsA.png": "/art-folio/static/media/HardOpsA.73c48cb5d2a9578ec088.png",
+    "static/media/HardOpsB6.png": "/art-folio/static/media/HardOpsB6.57c3a3d59a078cfad843.png",
+    "static/media/Alchemy.png": "/art-folio/static/media/Alchemy.44ae4a569b5fb3cd1bbc.png",
+    "static/media/NordicForestEditCropped.png": "/art-folio/static/media/NordicForestEditCropped.74f09136d17ca16b3615.png",
+    "static/media/Shrew4Cropped.png": "/art-folio/static/media/Shrew4Cropped.545f1dad56f332c898d0.png",
+    "static/media/Kylee6E.png": "/art-folio/static/media/Kylee6E.990e72e4facafa3fc24c.png",
     "static/media/Ruth.png": "/art-folio/static/media/Ruth.181fdccb1d49462aea12.png",
     "static/media/Beaver.png": "/art-folio/static/media/Beaver.247364d61ce7572cb48c.png",
     "static/media/UngreatfulBear.png": "/art-folio/static/media/UngreatfulBear.ee1781a174a9159d9ed0.png",
@@ -20,13 +28,14 @@
     "static/media/github.svg": "/art-folio/static/media/github.da6acc9efd83c62285bdfe631230e83e.svg",
     "static/media/insta.svg": "/art-folio/static/media/insta.c96b8ffb2ebf01d5c06660db92a2f252.svg",
     "index.html": "/art-folio/index.html",
+    "static/media/artstation.svg": "/art-folio/static/media/artstation.ea786ecc38d1c2c6524c30a3fa92b2b4.svg",
     "static/media/linked.svg": "/art-folio/static/media/linked.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "main.135f3b70.css.map": "/art-folio/static/css/main.135f3b70.css.map",
-    "main.8e189020.js.map": "/art-folio/static/js/main.8e189020.js.map",
+    "main.1bfe0072.css.map": "/art-folio/static/css/main.1bfe0072.css.map",
+    "main.fe95aedd.js.map": "/art-folio/static/js/main.fe95aedd.js.map",
     "787.cbdf60eb.chunk.js.map": "/art-folio/static/js/787.cbdf60eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.135f3b70.css",
-    "static/js/main.8e189020.js"
+    "static/css/main.1bfe0072.css",
+    "static/js/main.fe95aedd.js"
   ]
 }
