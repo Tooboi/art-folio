@@ -1,7 +1,7 @@
 import Blender from '../images/blender.png';
 import Substance from '../images/substance.png';
 
-export default function Project({ projects }) {
+export default function Project({ projects, currentTab }) {
   function Logo({ logoOption }) {
     if (logoOption === 1) {
       return <img src={Blender} alt={Blender} className="w-8 h-8" />;
@@ -17,9 +17,18 @@ export default function Project({ projects }) {
     }
   }
 
+  const filteredProjects = projects.filter((project) => {
+    if (currentTab === 'Characters') {
+      return project.tab.includes('Characters');
+    } else if (currentTab === 'Renders') {
+      return project.tab.includes('Renders');
+    }
+    return false;
+  });
+
   return (
     <div className="grid grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
-      {projects.map((project) => (
+      {filteredProjects.map((project) => (
         <div className="p-2" key={project.id}>
           <div className="mx-auto max-w-[512px] min-w-[150px] aspect-h-1 aspect-w-1 overflow-hidden rounded-lg bg-stone-800">
             <section className="absolute z-10 opacity-0 hover:opacity-100 transition">
