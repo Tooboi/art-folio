@@ -1,15 +1,29 @@
 import Blender from '../images/blender.png';
 import Substance from '../images/substance.png';
+import Maya from '../images/maya-01.png';
+import Arnold from '../images/arnold-01.png';
+import Zbrush from '../images/zbrush512-01-01.png';
 import { ReactComponent as Artststion } from '../images/artstation.svg';
 
 export default function Project({ projects, currentTab }) {
   function Logo({ logoOption }) {
     if (logoOption === 1) {
       return <img src={Blender} alt={Blender} className="w-8 h-8" />;
-    } else if (logoOption === 12) {
+    }
+    if (logoOption === 12) {
       return (
         <div className="flex max-w-full">
           <img src={Blender} alt={Blender} className="w-8 h-8 mx-1" />
+          <img src={Substance} alt={Substance} className="w-8 h-8 mx-1" />
+        </div>
+      );
+    }
+    if (logoOption === 2345) {
+      return (
+        <div className="flex max-w-full">
+          <img src={Maya} alt={Maya} className="w-8 h-8 mx-1" />
+          <img src={Arnold} alt={Arnold} className="w-8 h-8 mx-1" />
+          <img src={Zbrush} alt={Zbrush} className="w-8 h-8 mx-1" />
           <img src={Substance} alt={Substance} className="w-8 h-8 mx-1" />
         </div>
       );

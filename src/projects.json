@@ -1,0 +1,213 @@
+[
+    {
+      "id": 21,
+      "image": "images/HardOpsB6.png",
+      "title": "Obscura 550mm",
+      "link": "https://www.artstation.com/artwork/39BvW2",
+      "year": "2023",
+      "desc": "Hard Surface Exploration No.2",
+      "logo": 12,
+      "tab": "Renders"
+    },
+    {
+      "id": 20,
+      "image": "HardOpsA",
+      "title": "Gaydar 2200x",
+      "link": "https://www.artstation.com/artwork/045Ak8",
+      "year": "2023",
+      "desc": "Hard Surface Exploration No.1",
+      "logo": 12,
+      "tab": "Renders"
+    },
+    {
+      "id": 19,
+      "image": "Alchemy",
+      "title": "Alchemy",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Creating Spaces",
+      "logo": 1,
+      "tab": "Renders"
+    },
+    {
+      "id": 18,
+      "image": "Mold",
+      "title": "Mold",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Simulation Nodes",
+      "logo": 1,
+      "tab": "Renders"
+    },
+    {
+      "id": 17,
+      "image": "Pearls",
+      "title": "Pearls",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Simulation Nodes",
+      "logo": 1,
+      "tab": "Renders"
+    },
+    {
+      "id": 16,
+      "image": "NordicForest",
+      "title": "Nordic Forest",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Forest Study No.1",
+      "logo": 1,
+      "tab": "Renders"
+    },
+    {
+      "id": 15,
+      "image": "Shrew",
+      "title": "Shrew",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Animal & Fur Study No.7",
+      "logo": 1,
+      "tab": "Characters"
+    },
+    {
+      "id": 14,
+      "image": "Kylee6E",
+      "title": "Kylee",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Realism Study No.7",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 1,
+      "image": "Eric",
+      "title": "Eric",
+      "link": "https://www.artstation.com/artwork/LRlvbr",
+      "year": "2023",
+      "desc": "Realism Study No.6",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 2,
+      "image": "Ben",
+      "title": "Ben",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Realism Study No.5",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 3,
+      "image": "Ruth",
+      "title": "Ruth",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Realism Study No.4",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 4,
+      "image": "Creature",
+      "title": "Creature Alpha",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Nightmare Fuel No.2",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 5,
+      "image": "Creature2",
+      "title": "Ankle Biter",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2023",
+      "desc": "Nightmare Fuel No.1",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 6,
+      "image": "Dude2",
+      "title": "Kev",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2022",
+      "desc": "Realism Study No.3",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 7,
+      "image": "Beaver",
+      "title": "Beaver",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2020",
+      "desc": "Animal & Fur Study No.1",
+      "logo": 1,
+      "tab": "Characters"
+    },
+    {
+      "id": 8,
+      "image": "Fox",
+      "title": "Fox",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2021",
+      "desc": "Animal & Fur Study No.2",
+      "logo": 1,
+      "tab": "Characters"
+    },
+    {
+      "id": 9,
+      "image": "Lemur",
+      "title": "Lemur",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2022",
+      "desc": "Animal & Fur Study No.3",
+      "logo": 1,
+      "tab": "Characters"
+    },
+    {
+      "id": 10,
+      "image": "Platipus",
+      "title": "Platypus",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2022",
+      "desc": "Animal & Fur Study No.4",
+      "logo": 1,
+      "tab": "Characters"
+    },
+    {
+      "id": 11,
+      "image": "PolishTroll",
+      "title": "Polish Troll",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2022",
+      "desc": "Realism Study No.1",
+      "logo": 12,
+      "tab": "Characters"
+    },
+    {
+      "id": 12,
+      "image": "PrarieDawg",
+      "title": "Prairie Dawg",
+      "link": "https://tooboi.github.io/After-Afters/",
+      "year": "2022",
+      "desc": "Animal & Fur Study No.6",
+      "logo": 1,
+      "tab": "Characters"
+    },
+    {
+      "id": 13,
+      "image": "UngreatfulBear",
+      "title": "Ungrateful Bear",
+      "link": "https://www.artstation.com/gamma2dot2",
+      "year": "2022",
+      "desc": "Animal & Fur Study No.5",
+      "logo": 1,
+      "tab": "Characters"
+    }
+  ]
+  

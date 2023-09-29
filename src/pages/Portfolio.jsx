@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Project from '../components/Project';
+
 import Ben from '../images/Ben2.png';
 import Eric from '../images/Eric11.png';
 import Creature from '../images/Creature.png';
@@ -21,7 +22,30 @@ import Mold from '../images/Mold5.png';
 import Pearls from '../images/pearls3.png';
 import NordicForest from '../images/NordicForestEditCropped.png';
 import UngreatfulBear from '../images/UngreatfulBear.png';
+import HardOpsWalker from '../images/Hyperion.png';
+import Krim from '../images/Alien3Eye11.png';
+
 const projects = [
+  {
+    id: 23,
+    image: Krim,
+    title: 'Krim',
+    link: 'https://www.artstation.com/artwork/8bywDO',
+    year: '2023',
+    desc: 'Creature Design',
+    logo: 2345,
+    tab: 'Characters',
+  },
+  {
+    id: 22,
+    image: HardOpsWalker,
+    title: 'Hyperion Harvester 6',
+    link: 'https://www.artstation.com/artwork/lD8R8V',
+    year: '2023',
+    desc: 'Hard Surface Exploration No.3',
+    logo: 12,
+    tab: 'Renders',
+  },
   {
     id: 21,
     image: HardOpsB,
