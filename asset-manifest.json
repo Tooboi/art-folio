@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-folio/static/css/main.9149d877.css",
-    "main.js": "/art-folio/static/js/main.f812ca58.js",
+    "main.js": "/art-folio/static/js/main.bd3d0d9e.js",
     "static/js/787.cbdf60eb.chunk.js": "/art-folio/static/js/787.cbdf60eb.chunk.js",
     "static/media/Mold5.png": "/art-folio/static/media/Mold5.32825f4b20f76c1daeba.png",
     "static/media/Ben2.png": "/art-folio/static/media/Ben2.a4e8a2fbe3d1c2e9ddb0.png",
@@ -9,6 +9,8 @@
     "static/media/pearls3.png": "/art-folio/static/media/pearls3.ab5df0b65df5727f96e8.png",
     "static/media/HardOpsA.png": "/art-folio/static/media/HardOpsA.73c48cb5d2a9578ec088.png",
     "static/media/HardOpsB6.png": "/art-folio/static/media/HardOpsB6.57c3a3d59a078cfad843.png",
+    "static/media/Hyperion.png": "/art-folio/static/media/Hyperion.997fb9be961c689a977d.png",
+    "static/media/Alien3Eye11.png": "/art-folio/static/media/Alien3Eye11.99812e4b5298a69392b7.png",
     "static/media/Alchemy.png": "/art-folio/static/media/Alchemy.44ae4a569b5fb3cd1bbc.png",
     "static/media/NordicForestEditCropped.png": "/art-folio/static/media/NordicForestEditCropped.74f09136d17ca16b3615.png",
     "static/media/Shrew4Cropped.png": "/art-folio/static/media/Shrew4Cropped.545f1dad56f332c898d0.png",
@@ -25,17 +27,20 @@
     "static/media/PrarieDawg.png": "/art-folio/static/media/PrarieDawg.91bca4729071bf9d5bb3.png",
     "static/media/Creature.png": "/art-folio/static/media/Creature.7f2be97373e6da405d76.png",
     "static/media/Banner1.png": "/art-folio/static/media/Banner1.23ac55d64bf738e19109.png",
+    "static/media/zbrush512-01-01.png": "/art-folio/static/media/zbrush512-01-01.a146665f370daa1b802b.png",
+    "static/media/arnold-01.png": "/art-folio/static/media/arnold-01.8e5de2246463c34e5552.png",
+    "static/media/maya-01.png": "/art-folio/static/media/maya-01.ad9f0b91c3be4ec8e630.png",
     "static/media/github.svg": "/art-folio/static/media/github.da6acc9efd83c62285bdfe631230e83e.svg",
     "static/media/insta.svg": "/art-folio/static/media/insta.c96b8ffb2ebf01d5c06660db92a2f252.svg",
     "index.html": "/art-folio/index.html",
     "static/media/artstation.svg": "/art-folio/static/media/artstation.ea786ecc38d1c2c6524c30a3fa92b2b4.svg",
     "static/media/linked.svg": "/art-folio/static/media/linked.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "main.9149d877.css.map": "/art-folio/static/css/main.9149d877.css.map",
-    "main.f812ca58.js.map": "/art-folio/static/js/main.f812ca58.js.map",
+    "main.bd3d0d9e.js.map": "/art-folio/static/js/main.bd3d0d9e.js.map",
     "787.cbdf60eb.chunk.js.map": "/art-folio/static/js/787.cbdf60eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9149d877.css",
-    "static/js/main.f812ca58.js"
+    "static/js/main.bd3d0d9e.js"
   ]
 }
