@@ -24,8 +24,41 @@ import NordicForest from '../images/NordicForestEditCropped.png';
 import UngreatfulBear from '../images/UngreatfulBear.png';
 import HardOpsWalker from '../images/Hyperion.png';
 import Krim from '../images/Alien3Eye11.png';
+import HardOpsE from '../images/HardOpsE.jpg';
+import HardOpsG from '../images/hardOpsG.png';
+import Novation from '../images/Novation.png';
 
 const projects = [
+  {
+    id: 26,
+    image: Novation,
+    title: 'Novation',
+    link: 'https://www.artstation.com/gamma2dot2',
+    year: '2023',
+    desc: 'product Render',
+    logo: 1,
+    tab: 'Renders',
+  },
+  {
+    id: 25,
+    image: HardOpsG,
+    title: 'Hard Surface G',
+    link: 'https://www.artstation.com/gamma2dot2',
+    year: '2023',
+    desc: 'Hard Surface Experiments',
+    logo: 1,
+    tab: 'Renders',
+  },
+  {
+    id: 24,
+    image: HardOpsE,
+    title: 'Hard Surface E',
+    link: 'https://www.artstation.com/gamma2dot2',
+    year: '2023',
+    desc: 'Hard Surface Experiments',
+    logo: 1,
+    tab: 'Renders',
+  },
   {
     id: 23,
     image: Krim,
